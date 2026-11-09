@@ -1,0 +1,15 @@
+# Local tools, old code and virtual environments: kept on this machine, never committed
+local/
+.venv/
+
+# Results are produced in Colab and downloaded as a zip
+results/
+
+# Python and notebook caches
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Secrets and the name-validation answer key
+.env
+data/validation/*KEY_do_not_share*

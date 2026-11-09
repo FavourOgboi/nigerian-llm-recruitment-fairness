@@ -1,0 +1,71 @@
+group,religion_cue,first_name,surname,validated,rater_agreement_ethnicity,rater_agreement_religion,notes
+Igbo,neutral,Chinedu,Okafor,no,,,
+Igbo,neutral,Emeka,Nwosu,no,,,
+Igbo,neutral,Obinna,Eze,no,,,
+Igbo,neutral,Ikechukwu,Okonkwo,no,,,
+Igbo,neutral,Chukwuemeka,Obi,no,,,
+Igbo,neutral,Nnamdi,Uzor,no,,,
+Igbo,neutral,Kelechi,Nwachukwu,no,,,
+Igbo,neutral,Uchenna,Agu,no,,,
+Igbo,neutral,Chidi,Onyeka,no,,,
+Igbo,neutral,Ifeanyi,Okeke,no,,,
+Yoruba,christian,Oluwaseun,Adeyemi,no,,,surname shared with Yoruba_Muslim list
+Yoruba,christian,Oluwatobi,Adebayo,no,,,surname shared with Yoruba_Muslim list
+Yoruba,christian,Ayodeji,Ogunleye,no,,,surname shared with Yoruba_Muslim list
+Yoruba,christian,Babatunde,Adeleke,no,,,surname shared with Yoruba_Muslim list
+Yoruba,christian,Olumide,Bakare,no,,,surname shared with Yoruba_Muslim list
+Yoruba,christian,Oluwafemi,Akinola,no,,,surname shared with Yoruba_Muslim list
+Yoruba,christian,Adewale,Ogunbiyi,no,,,surname shared with Yoruba_Muslim list
+Yoruba,christian,Olusegun,Olaniyan,no,,,surname shared with Yoruba_Muslim list
+Yoruba,christian,Oluwadamilare,Oyelaran,no,,,surname shared with Yoruba_Muslim list
+Yoruba,christian,Akinwale,Afolabi,no,,,surname shared with Yoruba_Muslim list
+Yoruba_Muslim,muslim,Sulaimon,Adeyemi,no,,,religion contrast; same surnames as Yoruba list
+Yoruba_Muslim,muslim,Abdulwasiu,Adebayo,no,,,religion contrast; same surnames as Yoruba list
+Yoruba_Muslim,muslim,Ismaila,Ogunleye,no,,,religion contrast; same surnames as Yoruba list
+Yoruba_Muslim,muslim,Rasheed,Adeleke,no,,,religion contrast; same surnames as Yoruba list
+Yoruba_Muslim,muslim,Kazeem,Bakare,no,,,religion contrast; same surnames as Yoruba list
+Yoruba_Muslim,muslim,Lateef,Akinola,no,,,religion contrast; same surnames as Yoruba list
+Yoruba_Muslim,muslim,Waheed,Ogunbiyi,no,,,religion contrast; same surnames as Yoruba list
+Yoruba_Muslim,muslim,Mutiu,Olaniyan,no,,,religion contrast; same surnames as Yoruba list
+Yoruba_Muslim,muslim,Taofeek,Oyelaran,no,,,religion contrast; same surnames as Yoruba list
+Yoruba_Muslim,muslim,Azeez,Afolabi,no,,,religion contrast; same surnames as Yoruba list
+Hausa,muslim,Abubakar,Musa,no,,,Hausa names are strongly Muslim-coded; ethnicity and religion confounded
+Hausa,muslim,Ibrahim,Bello,no,,,
+Hausa,muslim,Usman,Abdullahi,no,,,
+Hausa,muslim,Aminu,Sani,no,,,
+Hausa,muslim,Sani,Garba,no,,,
+Hausa,muslim,Yusuf,Lawal,no,,,
+Hausa,muslim,Bashir,Danjuma,no,,,
+Hausa,muslim,Mustapha,Yakubu,no,,,
+Hausa,muslim,Kabiru,Shehu,no,,,
+Hausa,muslim,Nasiru,Aliyu,no,,,
+Ijaw,neutral,Ebikabowei,Ogbotobo,no,,,candidate list; must be validated by Ijaw raters
+Ijaw,neutral,Preye,Ayebaemi,no,,,
+Ijaw,neutral,Diepreye,Alagoa,no,,,
+Ijaw,neutral,Ebiowei,Seiyefa,no,,,
+Ijaw,neutral,Timipre,Ebimoboere,no,,,
+Ijaw,neutral,Tonye,Erefagha,no,,,
+Ijaw,neutral,Ebimobowei,Tuoyo,no,,,
+Ijaw,neutral,Ebiye,Ogoniba,no,,,
+Ijaw,neutral,Perekeme,Ebiere,no,,,
+Ijaw,neutral,Ayibanimi,Doubra,no,,,
+Tiv,neutral,Terver,Akaa,no,,,candidate list; must be validated by Tiv raters
+Tiv,neutral,Msughter,Iorliam,no,,,
+Tiv,neutral,Aondona,Gbor,no,,,
+Tiv,neutral,Tersoo,Tyokase,no,,,
+Tiv,neutral,Iorwuese,Ahile,no,,,
+Tiv,neutral,Sesugh,Agber,no,,,
+Tiv,neutral,Torkuma,Iyorchia,no,,,
+Tiv,neutral,Tyover,Orngu,no,,,
+Tiv,neutral,Aondofa,Gbaden,no,,,
+Tiv,neutral,Terhemba,Ityav,no,,,
+Kanuri,muslim,Modu,Kolo,no,,,candidate list; must be validated by Kanuri raters
+Kanuri,muslim,Bukar,Monguno,no,,,
+Kanuri,muslim,Kyari,Gana,no,,,
+Kanuri,muslim,Goni,Zannah,no,,,
+Kanuri,muslim,Zanna,Kachalla,no,,,
+Kanuri,muslim,Bulama,Modu,no,,,
+Kanuri,muslim,Lawan,Bukar,no,,,
+Kanuri,muslim,Mala,Goni,no,,,
+Kanuri,muslim,Babagana,Kolo,no,,,
+Kanuri,muslim,Fannami,Kyari,no,,,
