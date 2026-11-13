@@ -1,0 +1,201 @@
+profile_id,tier,target_role,degree,classification,cgpa,nysc,experience_months,projects,analytical_skills,leadership_years,certifications
+P001,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,First Class,4.9,Completed,12,4,Demonstrated through project work and an industry assessment,3,3
+P002,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,First Class,4.9,Completed,18,3,Demonstrated through project work and an industry assessment,2,1
+P003,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,3.95,Completed,8,2,Demonstrated through project work,2,1
+P004,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.49,Completed,8,1,Demonstrated through one project,2,0
+P005,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,2.8,Completed,6,1,Demonstrated through one project,1,0
+P006,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,4.49,Completed,22,3,Demonstrated through project work and an industry assessment,3,1
+P007,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,2.9,Completed,1,1,Demonstrated through one project,0,0
+P008,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.3,Completed,3,1,Demonstrated through one project,0,0
+P009,strong,Graduate Trainee - Finance,BSc Accounting,First Class,4.6,Completed,15,4,Demonstrated through project work and an industry assessment,2,1
+P010,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,3.1,Completed,6,1,Demonstrated through one project,1,0
+P011,strong,Graduate Trainee - Information Technology,BSc Computer Science,First Class,4.6,Completed,20,2,Demonstrated through project work,2,1
+P012,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.1,Completed,1,1,Demonstrated through one project,1,0
+P013,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,First Class,4.7,Completed,17,4,Demonstrated through project work and an industry assessment,2,2
+P014,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,First Class,4.75,Completed,13,4,Demonstrated through project work and an industry assessment,2,3
+P015,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,First Class,4.6,Completed,20,4,Demonstrated through project work and an industry assessment,2,1
+P016,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,4.49,Completed,13,2,Demonstrated through project work,2,1
+P017,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,4.05,Completed,8,1,Demonstrated through one project,1,1
+P018,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,4.49,Completed,22,3,Demonstrated through project work and an industry assessment,2,1
+P019,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.49,Completed,8,1,Demonstrated through one project,2,1
+P020,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.35,Completed,6,1,Demonstrated through one project,0,0
+P021,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.15,Completed,3,0,Not stated,0,0
+P022,strong,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,4.49,Completed,19,4,Demonstrated through project work and an industry assessment,2,2
+P023,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,3.5,Completed,12,2,Demonstrated through project work,2,0
+P024,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.49,Completed,11,1,Demonstrated through one project,1,1
+P025,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,3.55,Completed,11,1,Demonstrated through one project,1,0
+P026,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.3,Completed,1,0,Not stated,0,0
+P027,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,2.8,Completed,4,0,Not stated,0,0
+P028,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.49,Completed,10,1,Demonstrated through one project,2,1
+P029,strong,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,4.49,Completed,22,2,Demonstrated through project work,3,3
+P030,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,4.1,Completed,12,2,Demonstrated through project work,2,0
+P031,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,First Class,4.65,Completed,22,4,Demonstrated through project work and an industry assessment,3,1
+P032,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.3,Completed,4,1,Demonstrated through one project,1,0
+P033,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,First Class,4.65,Completed,14,2,Demonstrated through project work,3,1
+P034,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.1,Completed,4,1,Demonstrated through one project,1,0
+P035,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.0,Completed,1,1,Demonstrated through one project,0,0
+P036,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.1,Completed,6,1,Demonstrated through one project,1,0
+P037,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.49,Completed,7,1,Demonstrated through one project,2,1
+P038,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,3.1,Completed,3,1,Demonstrated through one project,0,0
+P039,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,4.49,Completed,19,2,Demonstrated through project work,2,3
+P040,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,2.9,Completed,1,1,Demonstrated through one project,1,0
+P041,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,First Class,4.7,Completed,24,2,Demonstrated through project work,3,3
+P042,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.1,Completed,2,0,Not stated,1,0
+P043,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.05,Completed,0,1,Demonstrated through one project,1,0
+P044,strong,Graduate Trainee - Finance,BSc Accounting,First Class,4.5,Completed,23,3,Demonstrated through project work and an industry assessment,2,3
+P045,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,3.5,Completed,12,2,Demonstrated through project work,2,0
+P046,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,4.1,Completed,7,2,Demonstrated through project work,2,0
+P047,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.35,Completed,2,0,Not stated,1,0
+P048,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,3.6,Completed,11,2,Demonstrated through project work,1,1
+P049,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.2,Completed,3,0,Not stated,1,0
+P050,strong,Graduate Trainee - Information Technology,BSc Computer Science,First Class,4.5,Completed,13,4,Demonstrated through project work and an industry assessment,3,3
+P051,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,First Class,4.9,Completed,21,3,Demonstrated through project work and an industry assessment,3,1
+P052,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,3.49,Completed,7,2,Demonstrated through project work,2,1
+P053,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,4.49,Completed,24,2,Demonstrated through project work,3,2
+P054,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,First Class,4.6,Completed,20,2,Demonstrated through project work,3,1
+P055,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.1,Completed,3,1,Demonstrated through one project,1,0
+P056,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,3.05,Completed,4,1,Demonstrated through one project,1,0
+P057,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.49,Completed,8,1,Demonstrated through one project,2,0
+P058,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,3.5,Completed,6,2,Demonstrated through project work,2,0
+P059,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,2.85,Completed,3,1,Demonstrated through one project,0,0
+P060,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.25,Completed,0,1,Demonstrated through one project,0,0
+P061,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,3.95,Completed,6,1,Demonstrated through one project,2,0
+P062,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.05,Completed,1,1,Demonstrated through one project,1,0
+P063,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,3.55,Completed,7,2,Demonstrated through project work,2,1
+P064,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,4.49,Completed,15,2,Demonstrated through project work,3,2
+P065,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,4.0,Completed,9,2,Demonstrated through project work,2,0
+P066,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,3.9,Completed,12,2,Demonstrated through project work,1,1
+P067,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,3.8,Completed,10,1,Demonstrated through one project,2,1
+P068,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.3,Completed,5,0,Not stated,0,0
+P069,strong,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,4.49,Completed,12,4,Demonstrated through project work and an industry assessment,2,1
+P070,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,3.49,Completed,7,1,Demonstrated through one project,2,1
+P071,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.49,Completed,11,2,Demonstrated through project work,2,1
+P072,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,4.4,Completed,15,4,Demonstrated through project work and an industry assessment,3,3
+P073,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.49,Completed,9,1,Demonstrated through one project,2,1
+P074,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,3.65,Completed,7,2,Demonstrated through project work,1,0
+P075,strong,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Upper,4.49,Completed,18,4,Demonstrated through project work and an industry assessment,2,3
+P076,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Upper,3.75,Completed,6,2,Demonstrated through project work,1,1
+P077,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,4.0,Completed,12,2,Demonstrated through project work,1,1
+P078,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.1,Completed,3,0,Not stated,0,0
+P079,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,3.05,Completed,4,1,Demonstrated through one project,0,0
+P080,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,2.95,Completed,5,1,Demonstrated through one project,1,0
+P081,strong,Graduate Trainee - Finance,BSc Accounting,First Class,4.7,Completed,15,3,Demonstrated through project work and an industry assessment,2,2
+P082,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,3.9,Completed,10,1,Demonstrated through one project,2,1
+P083,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,First Class,4.85,Completed,13,4,Demonstrated through project work and an industry assessment,3,3
+P084,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,First Class,4.5,Completed,23,3,Demonstrated through project work and an industry assessment,3,2
+P085,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,2.8,Completed,1,0,Not stated,1,0
+P086,strong,Graduate Trainee - Information Technology,BSc Computer Science,First Class,4.5,Completed,15,4,Demonstrated through project work and an industry assessment,3,1
+P087,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,First Class,4.85,Completed,19,4,Demonstrated through project work and an industry assessment,2,1
+P088,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,3.8,Completed,8,1,Demonstrated through one project,1,0
+P089,strong,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Upper,4.49,Completed,22,3,Demonstrated through project work and an industry assessment,2,1
+P090,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,3.75,Completed,9,2,Demonstrated through project work,1,1
+P091,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,3.6,Completed,11,2,Demonstrated through project work,1,1
+P092,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,First Class,4.65,Completed,23,4,Demonstrated through project work and an industry assessment,3,1
+P093,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,3.6,Completed,9,1,Demonstrated through one project,2,0
+P094,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,3.6,Completed,6,1,Demonstrated through one project,2,1
+P095,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,4.1,Completed,8,1,Demonstrated through one project,2,1
+P096,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.3,Completed,3,0,Not stated,1,0
+P097,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.05,Completed,5,1,Demonstrated through one project,1,0
+P098,strong,Graduate Trainee - Finance,BSc Accounting,First Class,4.65,Completed,23,2,Demonstrated through project work,3,3
+P099,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.05,Completed,0,0,Not stated,1,0
+P100,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,2.95,Completed,5,1,Demonstrated through one project,0,0
+P101,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,3.6,Completed,9,1,Demonstrated through one project,2,0
+P102,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,First Class,4.85,Completed,20,3,Demonstrated through project work and an industry assessment,3,1
+P103,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.49,Completed,11,2,Demonstrated through project work,2,1
+P104,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.35,Completed,0,1,Demonstrated through one project,0,0
+P105,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Upper,3.85,Completed,6,2,Demonstrated through project work,2,1
+P106,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,3.75,Completed,9,1,Demonstrated through one project,1,0
+P107,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,3.75,Completed,10,1,Demonstrated through one project,2,1
+P108,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,2.95,Completed,0,1,Demonstrated through one project,1,0
+P109,strong,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Upper,4.49,Completed,12,3,Demonstrated through project work and an industry assessment,3,1
+P110,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,4.49,Completed,17,4,Demonstrated through project work and an industry assessment,3,3
+P111,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Upper,3.85,Completed,8,2,Demonstrated through project work,1,1
+P112,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.05,Completed,2,0,Not stated,0,0
+P113,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,2.9,Completed,5,1,Demonstrated through one project,0,0
+P114,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.0,Completed,5,0,Not stated,1,0
+P115,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.4,Completed,2,0,Not stated,1,0
+P116,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,First Class,4.8,Completed,15,4,Demonstrated through project work and an industry assessment,3,3
+P117,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,3.8,Completed,10,2,Demonstrated through project work,2,1
+P118,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Upper,4.05,Completed,8,1,Demonstrated through one project,2,1
+P119,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,2.9,Completed,1,1,Demonstrated through one project,1,0
+P120,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,3.4,Completed,5,1,Demonstrated through one project,1,0
+P121,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.49,Completed,11,1,Demonstrated through one project,2,0
+P122,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,First Class,4.5,Completed,21,2,Demonstrated through project work,3,2
+P123,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,First Class,4.8,Completed,24,4,Demonstrated through project work and an industry assessment,2,2
+P124,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.49,Completed,12,2,Demonstrated through project work,1,0
+P125,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,First Class,4.8,Completed,17,4,Demonstrated through project work and an industry assessment,3,3
+P126,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Upper,3.9,Completed,10,1,Demonstrated through one project,2,0
+P127,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.49,Completed,10,2,Demonstrated through project work,2,1
+P128,strong,Graduate Trainee - Finance,BSc Accounting,First Class,4.5,Completed,20,3,Demonstrated through project work and an industry assessment,3,2
+P129,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,3.75,Completed,7,2,Demonstrated through project work,2,0
+P130,strong,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,4.49,Completed,13,2,Demonstrated through project work,2,3
+P131,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.49,Completed,6,2,Demonstrated through project work,1,0
+P132,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,2.8,Completed,0,1,Demonstrated through one project,1,0
+P133,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,First Class,4.65,Completed,19,4,Demonstrated through project work and an industry assessment,2,3
+P134,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,4.05,Completed,11,2,Demonstrated through project work,1,0
+P135,strong,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,4.49,Completed,21,4,Demonstrated through project work and an industry assessment,2,3
+P136,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,First Class,4.5,Completed,24,2,Demonstrated through project work,2,3
+P137,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,First Class,4.65,Completed,12,2,Demonstrated through project work,3,2
+P138,strong,Graduate Trainee - Information Technology,BSc Computer Science,First Class,4.55,Completed,20,2,Demonstrated through project work,3,2
+P139,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,3.65,Completed,6,1,Demonstrated through one project,1,0
+P140,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Upper,3.6,Completed,8,1,Demonstrated through one project,2,0
+P141,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.3,Completed,5,1,Demonstrated through one project,0,0
+P142,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,2.95,Completed,1,0,Not stated,0,0
+P143,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.49,Completed,8,1,Demonstrated through one project,1,1
+P144,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,First Class,4.5,Completed,21,3,Demonstrated through project work and an industry assessment,3,3
+P145,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,4.49,Completed,14,4,Demonstrated through project work and an industry assessment,3,1
+P146,strong,Graduate Trainee - Information Technology,BSc Computer Science,First Class,4.85,Completed,15,2,Demonstrated through project work,2,2
+P147,strong,Graduate Trainee - Finance,BSc Accounting,First Class,4.55,Completed,13,3,Demonstrated through project work and an industry assessment,3,1
+P148,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,3.6,Completed,8,2,Demonstrated through project work,1,0
+P149,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,4.0,Completed,9,2,Demonstrated through project work,2,0
+P150,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,3.9,Completed,11,2,Demonstrated through project work,2,1
+P151,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,3.8,Completed,10,1,Demonstrated through one project,1,0
+P152,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,4.0,Completed,9,2,Demonstrated through project work,1,1
+P153,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.15,Completed,6,1,Demonstrated through one project,0,0
+P154,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,2.95,Completed,2,1,Demonstrated through one project,0,0
+P155,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,3.7,Completed,9,2,Demonstrated through project work,2,0
+P156,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.3,Completed,0,1,Demonstrated through one project,0,0
+P157,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,2.85,Completed,0,0,Not stated,0,0
+P158,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,First Class,4.65,Completed,18,4,Demonstrated through project work and an industry assessment,3,2
+P159,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,3.95,Completed,10,1,Demonstrated through one project,2,0
+P160,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.3,Completed,2,1,Demonstrated through one project,0,0
+P161,borderline,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,4.05,Completed,12,2,Demonstrated through project work,2,0
+P162,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,4.45,Completed,16,3,Demonstrated through project work and an industry assessment,2,2
+P163,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,2.95,Completed,4,1,Demonstrated through one project,0,0
+P164,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.49,Completed,9,1,Demonstrated through one project,2,0
+P165,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Upper,4.49,Completed,23,2,Demonstrated through project work,3,3
+P166,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,First Class,4.75,Completed,14,4,Demonstrated through project work and an industry assessment,2,1
+P167,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,4.49,Completed,22,2,Demonstrated through project work,3,2
+P168,weak,Graduate Trainee - Power Systems,BEng Electrical Engineering,Second Class Lower,2.95,Completed,6,0,Not stated,0,0
+P169,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.0,Completed,4,0,Not stated,1,0
+P170,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.05,Completed,2,1,Demonstrated through one project,0,0
+P171,strong,Graduate Trainee - Power Systems,BEng Electrical Engineering,First Class,4.85,Completed,19,3,Demonstrated through project work and an industry assessment,3,1
+P172,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.3,Completed,1,0,Not stated,0,0
+P173,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,First Class,4.55,Completed,17,2,Demonstrated through project work,3,3
+P174,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,4.49,Completed,14,4,Demonstrated through project work and an industry assessment,2,3
+P175,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,3.5,Completed,7,1,Demonstrated through one project,2,0
+P176,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.49,Completed,12,1,Demonstrated through one project,1,1
+P177,strong,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Upper,4.49,Completed,21,2,Demonstrated through project work,2,1
+P178,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.1,Completed,3,1,Demonstrated through one project,1,0
+P179,strong,Graduate Trainee - Information Technology,BSc Computer Science,First Class,4.5,Completed,16,2,Demonstrated through project work,2,2
+P180,borderline,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.49,Completed,6,2,Demonstrated through project work,1,1
+P181,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,2.95,Completed,6,1,Demonstrated through one project,0,0
+P182,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.15,Completed,4,1,Demonstrated through one project,0,0
+P183,weak,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Lower,3.35,Completed,2,0,Not stated,0,0
+P184,strong,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,First Class,4.85,Completed,21,3,Demonstrated through project work and an industry assessment,3,3
+P185,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,First Class,4.5,Completed,12,3,Demonstrated through project work and an industry assessment,3,3
+P186,borderline,Graduate Trainee - Finance,BSc Accounting,Second Class Upper,3.55,Completed,9,2,Demonstrated through project work,1,0
+P187,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,2.85,Completed,2,0,Not stated,1,0
+P188,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.05,Completed,5,1,Demonstrated through one project,0,0
+P189,borderline,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Upper,3.6,Completed,11,2,Demonstrated through project work,2,1
+P190,weak,Graduate Trainee - Information Technology,BSc Computer Science,Second Class Lower,3.05,Completed,0,1,Demonstrated through one project,1,0
+P191,borderline,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.49,Completed,11,2,Demonstrated through project work,1,1
+P192,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.25,Completed,4,0,Not stated,1,0
+P193,strong,Graduate Trainee - Information Technology,BSc Computer Science,First Class,4.8,Completed,24,3,Demonstrated through project work and an industry assessment,3,2
+P194,weak,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Lower,3.15,Completed,2,1,Demonstrated through one project,1,0
+P195,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.05,Completed,3,0,Not stated,1,0
+P196,weak,Graduate Trainee - Production Engineering,BSc Petroleum Engineering,Second Class Lower,3.3,Completed,5,1,Demonstrated through one project,1,0
+P197,strong,Graduate Trainee - Process Engineering,BSc Chemical Engineering,First Class,4.6,Completed,23,2,Demonstrated through project work,3,2
+P198,weak,Graduate Trainee - Finance,BSc Accounting,Second Class Lower,3.3,Completed,5,1,Demonstrated through one project,1,0
+P199,borderline,Graduate Trainee - Process Engineering,BSc Chemical Engineering,Second Class Upper,4.0,Completed,9,1,Demonstrated through one project,2,1
+P200,strong,Graduate Trainee - Maintenance Engineering,BEng Mechanical Engineering,Second Class Upper,4.49,Completed,23,4,Demonstrated through project work and an industry assessment,3,3
